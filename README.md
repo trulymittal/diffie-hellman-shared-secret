@@ -1,7 +1,5 @@
 ## Diffie-Hellman
 
----
-
 This repo describes how to **generate a shared secret between two clients**, Alice and Bob, using Diffie-Hellman key exchange. This repo uses modp15 group which will generate a key that is **3072 bits** long, but you can change the group number to get the desired bit length. The **RFC3526** text file is provided inside the repo for your use.
 
 ### How to use this repo
